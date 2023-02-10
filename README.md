@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-The purpose of this project is to .
+The purpose of this project is to implement different techniques to train and evaluate machine learning models with unbalanced classes using resampling. For this project I oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm, then implemented a combinatorial approach of over-and undersampling using the SMOTEENN algorithm. Finally, in order to predict credit risk, I implemented the BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 
 ---
