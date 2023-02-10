@@ -65,9 +65,8 @@ The purpose of this project is to implement different techniques to train and ev
 
 ## Summary
 
-* .
+* Each model adjusts the data accordingly to the machine learning model algorithm. As we can see, each particular model has it's own accuracy score. For this exercise the best ranked model was the AdaBoost model with 92% accuracy, also, this model is able to classify better for high and low risk credits. In order to enhance the classification of risk levels, it will be needed to analyze the current data and identify why high risk loans tend to be difficult to classify on each model.
 
 
-* Recommendation on which model to use:
 
 
