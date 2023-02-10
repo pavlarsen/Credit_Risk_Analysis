@@ -29,11 +29,12 @@ The purpose of this project is to implement different techniques to train and ev
 
 ### 3.- Undersampling
 
-![3 - Undersampling](https://user-images.githubusercontent.com/113866707/217706605-8b347022-36ab-46f4-8fc9-ece8676f55ec.png)
 
-* Balanced Accuracy Score of 62%. We can conclude that this model works 62 out of 100 times it is run.
+![Captura de pantalla 2023-02-09 a la(s) 22 46 11](https://user-images.githubusercontent.com/113866707/218003198-16a63082-a324-43d1-97de-90681063152d.png)
+
+* Balanced Accuracy Score of 52%. We can conclude that this model works 52 out of 100 times it is run.
 * Precision score of this model is not good for identifying high-risk loans as shown in the Classification Report Imbalanced, where 0.01 high-risk credits were identified.
-* Recall of 61% for high risk and 64% for low risk.
+* Recall of 61% for high risk and 43% for low risk.
 
 ### 4.- Combination (Over and Under) Sampling
 
